@@ -1,0 +1,5 @@
+#!/bin/bash
+while :
+    do
+        clear && sleep 1  && make launch-disk
+done
